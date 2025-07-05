@@ -74,3 +74,6 @@ Easy to scale horizontally for growing data and users.
 Works well with real-time data and geospatial queries (locations).
 
 Strong community and good integration with Node.js.
+
+![image](https://github.com/user-attachments/assets/ded24547-b13d-44cd-881e-a4660b504254)
+
