@@ -76,6 +76,6 @@ Works well with real-time data and geospatial queries (locations).
 Strong community and good integration with Node.js.
 
 ## Figma Design
+![White Professional Real Estate Facebook Post](https://github.com/user-attachments/assets/cfcf3567-2871-456f-8826-9e8ab113aa76)
 
-![Uploading White Professional Real Estate Facebook Post.png…]()
 
